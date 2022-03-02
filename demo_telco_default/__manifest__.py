@@ -141,7 +141,7 @@
     ],
 
     'git-repos': [
-        'https://github.com/leobozzi/cl-canal4.git',
+        'https://github.com/leobozzi/cl-demo-telco.git',
         'https://github.com/leobozzi/odoo-addons-utils.git',
         'git@github.com:vangrow/odoo-modules.git -b 12.0',
         'git@github.com:vangrow/ndm.git -b 12.0',

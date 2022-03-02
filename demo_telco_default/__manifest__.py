@@ -76,7 +76,7 @@
 
         # Localización
         'l10n_ar',
-        'l10n_ar_ux',
+        # 'l10n_ar_ux',
         'l10n_ar_afipws',
         'l10n_ar_afipws_fe',
         'l10n_ar_bank',
@@ -298,7 +298,6 @@
         # Fix porque falla la instalacion de l10n_ar_ux
         'https://github.com/ingadhoc/odoo-argentina ingadhoc-odoo-argentina',
 
-        'https://github.com/ingadhoc/odoo-argentina ingadhoc-odoo-argentina',
         # 'https://github.com/ingadhoc/partner ingadhoc-partner',
         'https://github.com/ingadhoc/product ingadhoc-product',
         'https://github.com/ingadhoc/project ingadhoc-project',

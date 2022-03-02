@@ -27,8 +27,7 @@
     'depends': [
         # Applicaciones del Cliente
         'sale_management',
-        'sale_commission',
-        'sale_commission_salesman',
+        'sale_subscription',
         'purchase',
         'stock',
         'hr',

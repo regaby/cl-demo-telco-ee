@@ -46,6 +46,10 @@
         # Localización
         'l10n_ar',
 
+        # Miscellaneous
+        'base_address_city',
+        'base_address_extended',
+
         # Utils
         'web_search_with_and',
         'auto_backup',
@@ -53,6 +57,18 @@
         'server_global_parameters',
         'base_external_dbsource',
         'mail_activity_board',
+
+        # Vangrow
+        'bit_partner_neighborhood',
+        'bit_account_journal_day_book_report',
+        'bit_dashboard_iframe',
+        'bit_late_payment_penalty',
+        'bit_sale_order_template_ux',
+        'bit_sale_order_type_ux',
+        'bit_subscription_sale_order_proportional',
+        'bit_subscription_seal',
+        'bit_subscription_ticket',
+        'bit_subscription_ux',
 
     ],
     'data': [

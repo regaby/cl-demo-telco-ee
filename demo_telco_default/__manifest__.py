@@ -18,7 +18,7 @@
 #
 # -----------------------------------------------------------------------------------
 {
-    'name': 'demo_telco',
+    'name': 'demo-telco',
     'version': '12.0.0.0.0',
     'license': 'Other OSI approved licence',
     'category': 'Tools',

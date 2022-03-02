@@ -82,7 +82,7 @@
         'l10n_ar_bank',
         'l10n_ar_sale',
         'l10n_ar_account_withholding',
-        'l10n_latam_invoice_document',
+        # 'l10n_latam_invoice_document',
         'l10n_ar_reports',
         'l10n_ar_aeroo_base',
         # 'padron_afip',

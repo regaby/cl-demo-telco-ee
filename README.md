@@ -1,4 +1,4 @@
-# cl-demo-telco-ce
+# cl-demo-telco-ee
 
 Demo Telecomunicaciones
 =======================

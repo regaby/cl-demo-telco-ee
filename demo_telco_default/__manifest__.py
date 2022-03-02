@@ -78,7 +78,7 @@
         'bit_ndm_snmp',
         'bit_ndm_ssh',
         'bit_ndm_telnet',
-        'bit_suscription_ndm',
+        'bit_subscription_ndm',
 
     ],
     'data': [

@@ -70,6 +70,16 @@
         'bit_subscription_ticket',
         'bit_subscription_ux',
 
+        'bit_ndm',
+        'bit_ndm_ftth',
+        'bit_ndm_ftth_zxr10',
+        'bit_ndm_dhcp',
+        'bit_ndm_network',
+        'bit_ndm_snmp',
+        'bit_ndm_ssh',
+        'bit_ndm_telnet',
+        'bit_suscription_ndm',
+
     ],
     'data': [
     ],

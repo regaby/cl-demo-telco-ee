@@ -184,7 +184,7 @@
     ],
 
     'git-repos': [
-        'https://github.com/leobozzi/cl-demo-telco-ee.git',
+        'https://github.com/regaby/cl-demo-telco-ee.git',
         'https://github.com/leobozzi/odoo-addons-utils.git',
         'https://github.com/vangrow/odoo-modules.git -b 12.0',
         'https://github.com/vangrow/ndm.git -b 12.0',

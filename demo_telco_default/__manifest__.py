@@ -186,9 +186,9 @@
     'git-repos': [
         'https://github.com/leobozzi/cl-demo-telco-ee.git',
         'https://github.com/leobozzi/odoo-addons-utils.git',
-        'git@github.com:vangrow/odoo-modules.git -b 12.0',
-        'git@github.com:vangrow/ndm.git -b 12.0',
-        'git@github.com:odoo/enterprise.git -b 12.0',
+        'https://github.com/vangrow/odoo-modules.git -b 12.0',
+        'https://github.com/vangrow/ndm.git -b 12.0',
+        'https://github.com/leobozzi/enterprise.git -b 12.0',
 
         # Odoomates
         # ==========================================================================================
